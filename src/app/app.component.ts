@@ -9,8 +9,6 @@ import { NewTaskComponent } from "./tasks/new-task/new-task.component";
 
 @Component({
   selector: 'app-root',
-  standalone: true,
-  imports: [HeaderComponent, UserComponent, TasksComponent, CommonModule, NewTaskComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })

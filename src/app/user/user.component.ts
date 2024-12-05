@@ -20,7 +20,7 @@ import { CardComponent } from "../shared/card/card.component";
 
 export class UserComponent {
   @Input({ required: true }) user!: User;
-  @Input({required:true}) selected!:boolean;
+  @Input({ required: true }) selected!: boolean;
   @Output() select = new EventEmitter()
   get imagePath() {
     return '/assets/users/' + this.user?.avatar;
