@@ -1,27 +1,98 @@
-# Essentials
+# EasyTask Management
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+![Stars](https://img.shields.io/github/stars/Aimerick-Noua/EasyTask-Management?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Aimerick-Noua/EasyTask-Management?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Aimerick-Noua/EasyTask-Management?style=for-the-badge)
 
-## Development server
+## 🚀 About the Project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+**EasyTask Management** is a simple Angular application designed to manage tasks effectively. It allows you to view available users, assign tasks to users, and manage task statuses without the complexity of authentication or advanced features.
 
-## Code scaffolding
+### Key Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- 📝 **Task Assignment**: Assign tasks to users from a list of available users.
+- 📋 **Task Management**: View, edit, and delete tasks with ease.
+- ✅ **Task Completion**: Mark tasks as completed with a single click.
+- 🖥️ **Frontend Only**: This is a frontend-only application built with Angular.
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🛠️ Tech Stack
 
-## Running unit tests
+### Frontend:
+- **Angular** (Latest Version) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+- **HTML5** ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- **CSS3** ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- **TypeScript** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## ⚙️ Installation and Setup
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Follow these steps to get the project up and running on your local machine:
 
-## Further help
+### Prerequisites:
+- Node.js and npm installed
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Clone the Repository:
+```bash
+$ git clone https://github.com/Aimerick-Noua/EasyTask-Management.git
+$ cd EasyTask-Management
+```
+
+### Setup:
+1. Navigate to the project folder:
+   ```bash
+   $ cd frontend
+   ```
+2. Install dependencies:
+   ```bash
+   $ npm install
+   ```
+3. Run the Angular application:
+   ```bash
+   $ ng serve
+   ```
+
+---
+
+## 🎨 Screenshots
+
+Add some screenshots here showcasing the app in action. For example:
+
+- User list view
+- Task assignment interface
+- Task completion interface
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Open a pull request.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌟 Support
+
+If you like this project, please give it a ⭐️ and share it with others!
+
+---
+
+## 📧 Contact
+
+For questions or suggestions, feel free to reach out:
+- **GitHub**: [Aimerick-Noua](https://github.com/Aimerick-Noua)
+
+---
