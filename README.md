@@ -61,11 +61,15 @@ $ cd EasyTask-Management
 ### 1. User List View
 ![User List View](./screenshots/user-list-view.png)
 
-### 2. Task Assignment Interface
+### 2. Add Task Interface
+![Add Task Interface](./screenshots/add-task-interface.png)
+
+### 3. Task Assignment Interface
 ![Task Assignment Interface](./screenshots/task-assignment-interface.png)
 
-### 3. Task Completion Interface
-![Task Completion Interface](./screenshots/task-completion-interface.png)
+### 4. Assigned Task Interface
+![Assigned Task Interface](./screenshots/assigned-task-interface.png)
+
 
 ---
 
