@@ -58,11 +58,14 @@ $ cd EasyTask-Management
 
 ## 🎨 Screenshots
 
-Add some screenshots here showcasing the app in action. For example:
+### 1. User List View
+![User List View](./screenshots/user-list-view.png)
 
-- User list view
-- Task assignment interface
-- Task completion interface
+### 2. Task Assignment Interface
+![Task Assignment Interface](./screenshots/task-assignment-interface.png)
+
+### 3. Task Completion Interface
+![Task Completion Interface](./screenshots/task-completion-interface.png)
 
 ---
 
